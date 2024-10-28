@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinProjekt/KotlinProjekt.iml" filepath="$PROJECT_DIR$/KotlinProjekt/KotlinProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Noter/Noter.iml" filepath="$PROJECT_DIR$/Noter/Noter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave2Rational/Opgave2Rational.iml" filepath="$PROJECT_DIR$/Opgave2Rational/Opgave2Rational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaveJanuar2018/OpgaveJanuar2018.iml" filepath="$PROJECT_DIR$/OpgaveJanuar2018/OpgaveJanuar2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaverFuntionelProg/OpgaverFuntionelProg.iml" filepath="$PROJECT_DIR$/OpgaverFuntionelProg/OpgaverFuntionelProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OvelserKotlin.iml" filepath="$PROJECT_DIR$/OvelserKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funktionelProgrameringStyle/funktionelProgrameringStyle.iml" filepath="$PROJECT_DIR$/funktionelProgrameringStyle/funktionelProgrameringStyle.iml" />
+    </modules>
+  </component>
+</project>
